@@ -1,3 +1,5 @@
+//Tabitha Ristoff & Alice Uwase
+
 const board = [
     [0, 0, 0, 0],
     [0, 0, 0, 0],
